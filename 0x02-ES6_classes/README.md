@@ -55,5 +55,5 @@ Conclusion
 This project covers the fundamentals of object-oriented programming using ES6 classes, focusing on class inheritance, encapsulation, method overriding, and the use of symbols for privacy. Mastering these concepts will help you design scalable and maintainable code in JavaScript.
 
 Author
-Malcolm Chikadibia Iheremelam
+Mamello Motaung
 

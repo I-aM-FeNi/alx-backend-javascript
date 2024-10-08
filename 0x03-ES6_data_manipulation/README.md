@@ -79,7 +79,7 @@ Export a new function named `queryAPI`. It should accept an endpoint argument li
   protocol: 'http',
   name: 'getUsers',
 }
-
+```
 
 Track within the weakMap the number of times queryAPI is called for each endpoint.
 

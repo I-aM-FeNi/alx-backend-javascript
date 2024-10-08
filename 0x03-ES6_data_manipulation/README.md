@@ -88,21 +88,27 @@ When the number of queries is >= 5 throw an error with the message Endpoint load
 Running Tests
 To run the tests, use the following command:
 
+```
 npm test
-
+```
 
 Scripts
+
+```
 npm run lint: Run ESLint
 npm run check-lint: Check linting for files
 npm run dev: Run the project using Babel
 npm run test: Run tests using Jest
 npm run full-test: Run both ESLint and Jest
+```
 
 Configuration Files
+
+```
 package.json
 babel.config.js
 .eslintrc.js
-
+```
 
 Author
 This project was created by Malcolm C. Iheremelam.

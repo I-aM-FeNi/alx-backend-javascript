@@ -6,3 +6,4 @@ console.log(getListStudentIds('hello')); // Expected output: []
 
 // Test with the output of getListStudents() (array of student objects)
 console.log(getListStudentIds(getListStudents())); // Expected output: [1, 2, 5]
+

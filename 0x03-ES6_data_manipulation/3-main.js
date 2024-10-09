@@ -5,3 +5,4 @@ const students = getListStudents();
 const value = getStudentIdsSum(students);
 
 console.log(value); // Expected output: 8
+

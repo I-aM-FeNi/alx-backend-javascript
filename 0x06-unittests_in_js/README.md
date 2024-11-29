@@ -2,6 +2,8 @@
 
 This project contains tasks for learning to create unittests in NodeJS.
 
+By Malcolm Iheremelam
+
 ## Learning Objectives
 
 + How to use Mocha to write a test suite.

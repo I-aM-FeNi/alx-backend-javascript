@@ -2,7 +2,7 @@
 
 This project contains tasks for learning to create unittests in NodeJS.
 
-By Malcolm Iheremelam
+By Mamello Motaung.
 
 ## Learning Objectives
 
